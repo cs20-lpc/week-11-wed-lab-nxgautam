@@ -1,0 +1,15 @@
+--- Linear Probing (skip=3) ---
+Average probes (insert): 3.35
+Search hits (first 10 present keys): 10/10
+Average probes (search): 15.70
+
+--- Quadratic Probing ---
+Average probes (insert): 2.84
+Search hits (first 10 present keys): 10/10
+Average probes (search): 14.95
+
+--- Double Hashing ---
+Average probes (insert): 3.30
+Search hits (first 10 present keys): 10/10
+Average probes (search): 32.35
+
